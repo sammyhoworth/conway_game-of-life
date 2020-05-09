@@ -1,6 +1,6 @@
 """
 Sammy Howorth
-FIRST PASS (animation tand improvements o follow)
+FIRST PASS (animation tand improvements to follow)
 July 5, 2020; (2:00pm - 2:45pm)
 """
 import random
